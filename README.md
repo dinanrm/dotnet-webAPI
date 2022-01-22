@@ -1,2 +1,2 @@
 # dotnet-webAPI
-Best practice to build ASP .Net 6 Web API (Latest version)
+Just a little practice to develop ASP .Net Core Web API with several variations of .Net SDK version 
