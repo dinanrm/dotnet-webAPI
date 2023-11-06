@@ -1,6 +1,6 @@
 using System;
 
-namespace WebApplication
+namespace TodoApi
 {
     public class WeatherForecast
     {
